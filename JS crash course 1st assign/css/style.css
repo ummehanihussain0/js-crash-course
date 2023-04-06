@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to bottom, rgba(202, 236, 8, 0.5), rgba(77, 77, 71, 0.534)),url('https://wallpaperaccess.com/full/1555146.png');
+    background-size: 100% auto;
+    filter: grayscale(50%);
+    background-repeat: no-repeat;
+  background-size: cover;
+  }
+.hero-sec{
+    border: 5px solid rgb(201, 198, 25);
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul {
+    list-style: none;
+  }
+  ul li {
+    border: 1px solid rgb(103, 218, 26);
+    padding: 11px;
+    width: 100px;
+    background-color: aqua;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+    
